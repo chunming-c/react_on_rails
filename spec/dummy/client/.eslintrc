@@ -1,0 +1,6 @@
+---
+
+extends: eslint-config-shakacode
+
+rules:
+  no-console: 0

@@ -1,0 +1,11 @@
+node_modules
+coverage
+spec/react_on_rails/dummy-for-generators
+spec/dummy
+node_package/lib/
+node_package/tests/node_modules
+node_package/webpack.config.js
+**/node_modules/**
+**/generated/**
+**/app/assets/javascripts/application.js
+**/coverage/**
