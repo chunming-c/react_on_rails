@@ -134,10 +134,9 @@ function setTimeout() {
   #{undefined_for_exec_js_logging('setTimeout')}
 }
 
-function clearTimeOut() {
+function clearTimeout() {
   #{undefined_for_exec_js_logging('clearTimeOut')}
 }
-
 
         JS
       end
