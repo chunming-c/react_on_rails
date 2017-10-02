@@ -133,11 +133,6 @@ function setInterval() {
 function setTimeout() {
   #{undefined_for_exec_js_logging('setTimeout')}
 }
-
-function clearTimeout() {
-  #{undefined_for_exec_js_logging('clearTimeOut')}
-}
-
         JS
       end
 
